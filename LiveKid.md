@@ -1,4 +1,5 @@
 ---
+title: LiveKid
 layout: default
 ---
 # Live Kid
