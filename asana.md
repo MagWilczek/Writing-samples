@@ -6,7 +6,7 @@ nav_order: 3
 # Creating a task in Asana
 
 There are several ways to create a new task in Asana. 
-1. In **Home** click the **+** symbol in the upper right corner. A window will appear.
+1. In **Home** click the *+* symbol in the upper right corner. A window will appear.
 2. Enter **Task’s name**.
 3. (Optional) Assign the task to a **Project**.
 4. (Optional) Add description.
