@@ -1,6 +1,6 @@
 ---
 title: Home
-lauoyt: home
+layout: home
 ---
 # Writing samples
 
