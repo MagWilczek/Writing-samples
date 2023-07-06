@@ -1,6 +1,7 @@
 ---
-title: LiveKid
 layout: default
+title: LiveKid
+nav_order: 1
 ---
 # Live Kid
 
