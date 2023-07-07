@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sending email with Gmail
+title: Gmail
 nav_order: 5
 ---
 
