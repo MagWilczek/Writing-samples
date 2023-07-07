@@ -1,5 +1,5 @@
 ---
-lauoyt: default
+layout: default
 title: Tips
 parent: SAP Easy Access
 nav_order: 4
