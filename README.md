@@ -1,4 +1,4 @@
-# Writing samples by Magdalena Wilczek
+# Magdalena Wilczek
 
 
 ## Publishing your site on GitHub Pages
