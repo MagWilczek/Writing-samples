@@ -3,7 +3,7 @@ title: Introduction
 layout: home
 nav_order: 1
 ---
-# Writing samples
+## Hello
 
 Thank you for taking time to review my technical writing samples.
 
