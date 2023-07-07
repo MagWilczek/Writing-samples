@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Sending email with Gmail
-nav_order: 4
+nav_order: 5
+---
 
 # Sending email with Gmail
 This is an instruction saying how to send email with Gmail. It is intended for users who have not done it before.
