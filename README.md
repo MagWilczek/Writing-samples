@@ -1,5 +1,4 @@
-# Magdalena Wilczek 
-<br>Writing samples
+# Writing samples by Magdalena Wilczek Writing samples
 
 
 
