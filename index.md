@@ -1,9 +1,9 @@
 ---
-title: Introduction
+title: Home
 layout: home
 nav_order: 1
 ---
-Hello!
+Hello.
 
 Thank you for taking time to review my technical writing samples.
 
