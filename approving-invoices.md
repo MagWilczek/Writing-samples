@@ -11,7 +11,7 @@ Select **Document scan** to see the original invoice. Keep it open for reference
 
 1.	Click **Edit document** to edit and check invoice details. Invoice details page will open.
 
-3.	In **Basic details**, check the following items against the original invoice and order form:
+3.	In **Basic details** check the following items against the original invoice and order form:
 --	invoice date, 
 --	booking date, 
 --	amount to be paid, 
@@ -22,7 +22,7 @@ If necessary, correct entries to match the original invoice and order form.
 
 4.	In **Payment** check the following items against the invoice and order form:
 --	bank account number,
--- payment base date, 
+--  payment base date, 
 --	payment method,
 --	payment term.
 
