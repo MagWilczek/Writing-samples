@@ -38,10 +38,10 @@ Once you confirm payment term the payment date will calculate automatically.
 
 8.	Move the slide bar until you see **Assignment** column. Click on the arrow below it to see details.
 Check or enter the following items:
---	amount,
---	main ledger account,
---	cost origin unit,
---	order number.
+-	amount,
+-	main ledger account,
+-	cost origin unit,
+-	order number.
 
 If necessary, correct entries and click **Control**. Then click **Return**.
 
