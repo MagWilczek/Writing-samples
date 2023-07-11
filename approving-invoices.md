@@ -21,10 +21,10 @@ Select **Document scan** to see the original invoice. Keep it open for reference
 If necessary, correct entries to match the original invoice and order form.
 
 4.	In **Payment** check the following items against the invoice and order form:
---	bank account number,
---  payment base date, 
---	payment method,
---	payment term.
+-	bank account number,
+-  payment base date, 
+-	payment method,
+-	payment term.
 
 If necessary, correct entries to match the original invoice and order form.
 
