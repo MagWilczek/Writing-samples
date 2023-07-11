@@ -20,20 +20,20 @@ This is not an instruction saying how to set up a new account.
 7. Enter the **Subject** of the email.
 8. Write your message.
 9. (Optional) You can use the bottom menu to:
--   format text 
--   attach file  
--   insert link   
--   attach emoji  
--   insert files using **Drive**  
--   insert photo
--   toggle confidential mode
--   insert signature
+-   format text, 
+-   attach file,  
+-   insert link,   
+-   attach emoji,  
+-   insert files using **Drive**,  
+-   insert photo,
+-   toggle confidential mode,
+-   insert signature.
 10. (Optional) You can use **More options** in the bottom menu next to **Trash** symbol to:
--   set full screen as default mode 
--   label your email
--   switch between plain text and rich text mode 
--   print email
--   check spelling
--   use **Smart Compose**
+-   set full screen as default mode, 
+-   label your email,
+-   switch between plain text and rich text mode,
+-   print email,
+-   check spelling,
+-   use **Smart Compose**.
 11. Click **Send**. Your email will be saved in **Sent** folder.
 
