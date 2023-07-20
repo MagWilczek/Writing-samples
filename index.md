@@ -7,7 +7,7 @@ Hello.
 
 Thank you for taking time to review my writing samples.
 
-I hold a Master's degree in English and have several years of experience in drafting, translating and proofreading various kinds of documents, from mandatory disclosures of a listed company through presentations to press releases. Throughout my career I have always been working with words and it has always given me pleasure.
+I hold a Master's degree in English and have several years of experience in drafting, translating and proofreading various kinds of documents, from mandatory disclosures of a listed company through presentations to press releases. Throughout my career I have always been working with words and I have always enjoyed it.
 
 As I have little professional experience as a technical writer I decided to build my sample portfolio by writing documentation for applications that I use every day for private or business purposes. I am a self-learner and am aware of my potential limitations. However, I really enjoy collecting information, searching for details and clicking through projects, and then gathering it all under one product.
 
