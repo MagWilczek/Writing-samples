@@ -17,16 +17,17 @@ Select **Document scan** to see the original invoice. Keep it open for reference
  - amount to be paid, 
  - description,
  - order form number.
+
 If necessary, correct entries to match the original invoice and order form.
 
 3.	In **Payment** check the following items against the invoice and order form:
 -	bank account number,
--  payment base date, 
+- payment base date, 
 -	payment method,
 -	payment term.
 
- If necessary, correct entries to match the original invoice and order form.
- Once you confirm payment term the payment date will calculate automatically.
+If necessary, correct entries to match the original invoice and order form.
+Once you confirm payment term the payment date will calculate automatically.
 
 4.	If all details are correct, in **Payment lock** select **Payment clearance**.
 
