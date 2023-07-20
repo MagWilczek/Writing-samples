@@ -11,7 +11,7 @@ Select **Document scan** to see the original invoice. Keep it open for reference
 
 1.	Click **Edit document** to edit and check invoice details. Invoice details page will open.
 
-3.	In **Basic details** check the following items against the original invoice and order form:
+2.	In **Basic details** check the following items against the original invoice and order form:
  - invoice date, 
  - booking date, 
  - amount to be paid, 
@@ -20,7 +20,7 @@ Select **Document scan** to see the original invoice. Keep it open for reference
 
 If necessary, correct entries to match the original invoice and order form.
 
-4.	In **Payment** check the following items against the invoice and order form:
+3.	In **Payment** check the following items against the invoice and order form:
 -	bank account number,
 -  payment base date, 
 -	payment method,
@@ -30,13 +30,13 @@ If necessary, correct entries to match the original invoice and order form.
 
 Once you confirm payment term the payment date will calculate automatically.
 
-5.	If all details are correct, in **Payment lock** select **Payment clearance**.
+4.	If all details are correct, in **Payment lock** select **Payment clearance**.
 
-6.	In **Tax** check if the **Tax code** has been entered correctly as per original invoice. Tax amount will calculate automatically.
+5.	In **Tax** check if the **Tax code** has been entered correctly as per original invoice. Tax amount will calculate automatically.
 
-7.	In **Order reference** check the order number. If the order number is correct then all the remaining details should fill in automatically.
+6.	In **Order reference** check the order number. If the order number is correct then all the remaining details should fill in automatically.
 
-8.	Move the slide bar until you see **Assignment** column. Click on the arrow below it to see details.
+7.	Move the slide bar until you see **Assignment** column. Click on the arrow below it to see details.
 Check or enter the following items:
 -	amount,
 -	main ledger account,
