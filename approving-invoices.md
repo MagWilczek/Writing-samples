@@ -11,23 +11,18 @@ Select **Document scan** to see the original invoice. Keep it open for reference
 
 1.	Click **Edit document** to edit and check invoice details. Invoice details page will open.
 
-2.	In **Basic details** check the following items against the original invoice and order form:
+2.	In **Basic details** check the following items against the original invoice and order form.
  - invoice date, 
  - booking date, 
  - amount to be paid, 
  - description,
  - order form number.
 
-If necessary, correct entries to match the original invoice and order form.
-
 3.	In **Payment** check the following items against the invoice and order form:
 -	bank account number,
 - payment base date, 
 -	payment method,
 -	payment term.
-
-If necessary, correct entries to match the original invoice and order form.
-Once you confirm payment term the payment date will calculate automatically.
 
 4.	If all details are correct, in **Payment lock** select **Payment clearance**.
 
