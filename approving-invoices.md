@@ -17,7 +17,6 @@ Select **Document scan** to see the original invoice. Keep it open for reference
  - amount to be paid, 
  - description,
  - order form number.
-
 If necessary, correct entries to match the original invoice and order form.
 
 3.	In **Payment** check the following items against the invoice and order form:
@@ -25,7 +24,6 @@ If necessary, correct entries to match the original invoice and order form.
 -  payment base date, 
 -	payment method,
 -	payment term.
-
 If necessary, correct entries to match the original invoice and order form.
 
 Once you confirm payment term the payment date will calculate automatically.
