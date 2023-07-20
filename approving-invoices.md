@@ -24,9 +24,9 @@ If necessary, correct entries to match the original invoice and order form.
 -  payment base date, 
 -	payment method,
 -	payment term.
-If necessary, correct entries to match the original invoice and order form.
 
-Once you confirm payment term the payment date will calculate automatically.
+ If necessary, correct entries to match the original invoice and order form.
+ Once you confirm payment term the payment date will calculate automatically.
 
 4.	If all details are correct, in **Payment lock** select **Payment clearance**.
 
